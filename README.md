@@ -4,7 +4,7 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
 
 ## Project outline
 ## Building the data warehouse (data engineering):
-Develop a data warehouse to consolidate sales data, enabling analytical reporting and gaining valuable insights.---
+Develop a data warehouse to consolidate sales data, enabling analytical reporting and gaining valuable insights.
 
 ### BI: Analytics and Reporting (data analysis)
 Develop SQL-based analytics to deliver insights into:
