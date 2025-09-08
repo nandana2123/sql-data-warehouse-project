@@ -15,6 +15,15 @@ Develop SQL-based analytics to deliver insights into:
 * Product performance
 ---
 
+## Database Schema
+#### Bronze Layer:
+* Definition: Raw unprocessed data
+* Objective: Traceability and Debugging
+* Load method: Full load
+* No data transformation or modelling
+* Target: Data engineers
+---
+
 ## About Me
 I am Nandana J. Sreenivas, a fourth-year CSE student at SRM Institute of Science and Technology. I am interested in data analysis and related fields and enjoy working with complex data to gain meaningful insights.
 
