@@ -1,3 +1,6 @@
+--creating all the tables after checking if they exist in the database
+
+
 use DataWarehouse
 go
 
